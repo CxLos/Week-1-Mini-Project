@@ -1,0 +1,90 @@
+header {
+    background-color: rgb(255, 124, 192);
+}
+
+body header {
+    position: sticky; 
+    top: 0;
+}
+
+h1{
+    text-align: left;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+
+h2,
+h3 {
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+figure {
+    border: 10px solid;
+    border-color: rgb(38, 92, 255);
+    background-color: gray;
+    border-radius: 5px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    height: 600px;
+    width: 650px;
+}
+
+img {
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: rgb(66, 107, 255);
+    margin: auto;  
+    margin-top: 30px;
+    display: block;
+    height: 500px;
+    width: 550px;
+}
+
+figcaption {
+    border: 5px solid;
+    border-radius: 5px;
+    border-color: rgb(67, 255, 255);
+    background-color: rgb(171, 171, 171);
+    font-style: italic;
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+    width: 550px;
+}
+
+section {
+    border: 10px solid;
+    border-color: rgb(50, 255, 187);
+    height: 400px;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    ;
+}
+
+div {
+    padding: 10px;
+    margin: 0px;
+}
+
+nav {
+    text-align: right;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+ul {
+    padding: 10px;
+    font-size: 40px;
+}
+
+a {
+    padding: 10px;
+    background-color: rgb(255, 162, 162);
+}
